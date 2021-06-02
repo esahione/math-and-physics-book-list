@@ -5,8 +5,8 @@ This is a list of book recommendations for studying mathematics and theoretical 
 
 :raised_hand: **Disclaimer**:
 
-- :books: most books in the list are *graduate level books* (so many of them better be read with some prior knowledge of the subject in question)
-- :atom_symbol: the list is made for people who are studying *mathematics* and *theoretical physics*, so the recommended books will probably be too mathematical and abstract for people studing other STEM fields
+- :books: most books in the list are *graduate level books* (so many of them are better be read with some prior knowledge of subjects in question)
+- :atom_symbol: the list is made for people who are studying *mathematics* and *theoretical physics*, so the recommended books will probably be too mathematical and abstract for people intrested in other STEM fields
 - :green_salad: book selection describes *my personal taste* and does not imply any objective judgement about how one should study physics and mathematics
 
 
