@@ -5,7 +5,7 @@ This is a list of book recommendations for studying mathematics and theoretical 
 
 :raised_hand: **Disclaimer**:
 
-- :books: most books in the list are *graduate level books* (so many of them are better be read with some prior knowledge of subjects in question)
+- :books: most books in the list are *graduate level books* (many of them are better be read with some prior knowledge of subjects in question)
 - :atom_symbol: the list is made for people who are studying *mathematics* and *theoretical physics*, so the recommended books will probably be too mathematical and abstract for people intrested in other STEM fields
 - :green_salad: book selection describes *my personal taste* and does not imply any objective judgement about how one should study physics and mathematics
 
@@ -16,13 +16,14 @@ This is a list of book recommendations for studying mathematics and theoretical 
 ### 1. Classical Mechanics
 
 1. Landau and Lifshitz, *"Mechanics"*
-2. Arnold, *"Mathematical Methods of Classical Mechanics"*
-3. Goldstein, *"Classical Mechanics"*
+2. Goldstein, *"Classical Mechanics"*
+3. Arnold, *"Mathematical Methods of Classical Mechanics"*
 4. Bonus memes:
     - Takhtajan, *"Quantum Mechanics for Mathematicians"* (Ch. 1)
+    - Marsden and Ratiu, *"Introduction To Mechanics And Symmetry"*
+    - Abraham and Mardsen, *"Foundations of Mechanics"*
     - Kubiznak, *"Classical Mechanics"* [(Video)](http://pirsa.org/C15044)
     - Osborne, *"Symplectic Geometry and Classical Mechanics"* [(Video)](https://www.youtube.com/playlist?list=PLDfPUNusx1EoVnrQcCRishydtNBYU6A0c)
-    - Marsden and Ratiu, *"Introduction To Mechanics And Symmetry"*
 
 
 ### 2. Special Relativity
@@ -101,6 +102,7 @@ This is a list of book recommendations for studying mathematics and theoretical 
 
 - Cahill, *"Physical Mathematics"*
 - Szekeres, *"A Course in Modern Mathematical Physics"*
+- Arfken, Harris, and Weber, *"Mathematical Methods for Physicists"*
 - Hassani, *"Mathematical Physics"*
 - Riley, Hobson, and Bence, *"Mathematical Methods for Physics and Engineering"*
 
@@ -118,6 +120,7 @@ This is a list of book recommendations for studying mathematics and theoretical 
 - Wasserman, *"Tensors and Manifolds with Applications to Physics"*
 - Schutz, *"Geometrical Methods of Mathematical Physics"*
 - Nakahara, *"Geometry, Topology and Physics"*
+- Nash and Sen, *"Topology and Geometry for Physicists"*
 - Frankel, *"The Geometry of Physics"*
 - Doran and Lasenby, *"Geometric Algebra for Physicists"*
 
@@ -141,18 +144,22 @@ This is a list of book recommendations for studying mathematics and theoretical 
 1. Ahlfors, *"Complex Analysis"*
 2. Shabat, *"Introduction to Complex Analysis"*
 3. Lang, *"Complex Analysis"*
-4. Stein and Shakarchi, *"Complex Analysis"*
-5. Freitag and Busam, *"Complex Analysis"*
+4. Freitag and Busam, *"Complex Analysis"*
+5. Needham, *"Visual Complex Analysis"*
 6. Bonus memes:
     - Shakarchi and Lang, *"Problems and Solutions for Complex Analysis"*
     - Remmert, *"Theory of Complex Functions"*
     - Brown and Churchill, *"Complex Variables and Applications"*
-    - Needham, *"Visual Complex Analysis"*
+    - Stein and Shakarchi, *"Complex Analysis"*
 
 
 ### 3. Ordinary Differential Equations
 
 1. Arnold, *"Ordinary Differential Equations"*
+2. Boyce, DiPrima, and Meade, *"Elementary Differential Equations and Boundary Value Problems"*
+3. Adkins and Davidson, *"Ordinary Differential Equations"*
+4. Coddington, *"An introduction to Ordinary Differential Equations"*
+5. Tenenbaum and Pollard, *"Ordinary Differential Equations"*
 
 
 ### 4. Mathematical Physics
@@ -160,15 +167,30 @@ This is a list of book recommendations for studying mathematics and theoretical 
 #### General courses
 
 - Szekeres, *"A Course in Modern Mathematical Physics"*
+- Cahill, *"Physical Mathematics"*
+- Arfken, Harris, and Weber, *"Mathematical Methods for Physicists"*
 - Hassani, *"Mathematical Physics"*
 - Hassani, *"Mathematical Methods for Students of Physics and Related Fields"*
 - Richtmyer, *"Principles of Advanced Mathematical Physics"*
+
+#### Calculus of Variations
+
+- Gelfand and Fomin, *"Calculus of Variations"*
+- Chang, *"Lecture Notes On Calculus Of Variations"*
+- Ewing, *"Calculus of Variations with Applications"*
+- Rindler, *"Calculus of Variations"*
 
 #### Partial Differential Equations
 
 - Evans, *"Partial Differential Equations"*
 - Olver, *"Introduction to Partial Differential Equations"*
 - Strauss, *"Partial Differential Equations: an Introduction"*
+
+#### Integral Equations
+
+- Wazwaz, *"A First Course in Integral Equations"*
+- Zemyan, *"The Classical Theory of Integral Equations"*
+- Tricomi, *"Integral Equations"*
 
 #### Functional Analysis
 
@@ -216,5 +238,4 @@ This is a list of book recommendations for studying mathematics and theoretical 
 4. Bonus memes:
     - Kobayashi and Nomizu, *"Foundations of Differential Geometry"*
     - Gadea, Masque, and Mykytyuk, *"Analysis and Algebra on Differentiable Manifolds (Workbook)"*
-
 
